@@ -19,7 +19,7 @@ import java.util.List;
  */
 
 
-@FeignClient(url = "https://api.github.com")
+@FeignClient("https://api.github.com")
 public interface GitHubClient {
     //e.g. http://localhost:10080/andrefaria/spring-cloud-feign-example
 
