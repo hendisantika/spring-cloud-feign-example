@@ -17,5 +17,5 @@ public class SpringCloudFeignExampleApplication extends SpringBootServletInitial
 		SpringApplication.run(SpringCloudFeignExampleApplication.class, args);
 	}
 
-    
+
 }
