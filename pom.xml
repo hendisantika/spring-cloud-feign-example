@@ -25,7 +25,7 @@
         <!--		<spring-cloud.version>2.2.0.RELEASE</spring-cloud.version>-->
         <!--		<spring-boot.version>2.2.0.RELEASE</spring-boot.version>-->
         <feign.version>8.18.0</feign.version>
-        <archaius.version>0.7.7</archaius.version>
+        <archaius.version>0.7.12</archaius.version>
         <guava.version>23.0</guava.version>
     </properties>
 
